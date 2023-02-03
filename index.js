@@ -4,7 +4,7 @@ const express = require('express')
 const app = express()
 const mongoose= require("mongoose");
 const morgan = require('morgan');
-const port = 8080
+const port = 8000
 //const port = 5000
 
 
